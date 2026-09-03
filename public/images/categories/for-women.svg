@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="960" height="640" viewBox="0 0 960 640">
+  <defs>
+    <radialGradient id="g" cx="30%" cy="30%" r="70%">
+      <stop offset="0%" stop-color="#FF5FA0" stop-opacity="0.3"/>
+      <stop offset="100%" stop-color="#FF5FA0" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+  <rect width="960" height="640" fill="#0d0e10"/>
+  <rect width="960" height="640" fill="url(#g)"/>
+  <g opacity="0.9">
+    <rect x="380" y="160" width="200" height="360" rx="24" fill="#181a1f" stroke="#2a2e35" stroke-width="2"/>
+    <rect x="380" y="230" width="200" height="140" fill="#FF5FA0" opacity="0.9"/>
+    <rect x="366" y="120" width="228" height="48" rx="12" fill="#0a0b0d" stroke="#2a2e35" stroke-width="2"/>
+  </g>
+  <text x="60" y="580" font-family="Arial, sans-serif" font-weight="900" font-size="40" fill="#FF5FA0" opacity="0.85">ДЛЯ ДЕВУШЕК</text>
+</svg>
